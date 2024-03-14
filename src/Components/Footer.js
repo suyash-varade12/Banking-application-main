@@ -144,7 +144,7 @@ export default function Footer() {
               </p>
               <p>
                 <FontAwesomeIcon icon={faPhone} className="me-3 text-secondary" />
-                +91 7517592324
+                +91 9322672030
               </p>
               <p>
                 <FontAwesomeIcon icon={faPrint} className="me-3 text-secondary" />
@@ -156,7 +156,8 @@ export default function Footer() {
               
                 
               </p>
-                <p>Abhishek Bhosale</p>
+              <p>Suyash Varade</p>
+                
             </div>
           </div>
         </div>
